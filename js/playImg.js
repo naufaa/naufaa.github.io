@@ -1,6 +1,6 @@
 var btn = document.getElementById("heartTxt");
-btn.style.opacity = 0;
-var btnVal = 0;
+btn.style.opacity = 1;
+var btnVal = 1;
 
 function showImage(){
 	//document.getElementById("imgTxt").style.opacity = 0;
