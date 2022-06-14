@@ -25,7 +25,7 @@ function play(){
 	document.getElementById("imgTxt").style.opacity = 1 - flag;
 	if(t == 0){
 		//setTimeout(showImage, 1000);
-		setInterval(showImage, 120000);
+		setInterval(showImage, 2500);
 	}
 	t++;
 }
