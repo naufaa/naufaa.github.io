@@ -30,31 +30,16 @@
 	height: 20%;
 }
 
-#together{
+#txt3{
 	font-size: 25px;
 	text-align: center;
 	color: white;
 }
 
-#timer{
-	text-align: center;
-	color: white;
-}
-
-#d{
-	font-size: 19px;
-}
-
-#h{
-	font-size: 19px;
-}
-
-#m{
-	font-size: 19px;
-}
-
-#s{
-	font-size: 19px;
+#txt4{
+    font-size: 25px;
+    text-align: center;
+    color: white;
 }
 
 #heartTxt{
